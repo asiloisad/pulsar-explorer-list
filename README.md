@@ -1,14 +1,14 @@
 # fuzzy-explorer
 
-Fuzzy search files across user-defined directories in Pulsar.
+Fuzzy search files across user-defined directories.
 
 ## Features
 
 - **Fast fuzzy search**: Uses the `command-t` algorithm with smart scoring.
 - **Manual refresh**: Cache updates only when triggered by user.
 - **[file-icons](https://github.com/file-icons/atom)**: Display file icons in the list.
-- **[open-external](https://web.pulsar-edit.dev/packages/open-external)**: (`Ctrl+Enter`) Open files with external applications.
-- **[claude-chat](https://web.pulsar-edit.dev/packages/claude-chat)**: (`Alt+F`) Attach file to Claude chat context.
+- **[open-external](https://web.pulsar-edit.dev/packages/open-external)**: Open files with external applications.
+- **[claude-chat](https://web.pulsar-edit.dev/packages/claude-chat)**: Attach file to Claude chat context.
 
 ## Installation
 
