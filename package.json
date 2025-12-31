@@ -34,11 +34,22 @@
   "dependencies": {
     "cson": "^7.20.0",
     "glob": "^10.5.0",
+    "minimatch": "^10.0.1",
     "pulsar-select-list": "^1.2.2"
   },
   "configSchema": {
-    "separator": {
+    "ignoredNames": {
       "order": 1,
+      "title": "Ignored Names",
+      "description": "List of glob patterns. Files matching these patterns will be ignored.",
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "string"
+      }
+    },
+    "separator": {
+      "order": 2,
       "title": "Type of separator in file paths",
       "description": "Type of separator for the file path when copying or pasting.",
       "type": "integer",
