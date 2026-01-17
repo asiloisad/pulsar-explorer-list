@@ -1,5 +1,5 @@
 'atom-workspace':
-  'ctrl-alt-p': 'fuzzy-explorer:toggle'
+  'alt-p': 'fuzzy-explorer:toggle'
 
 '.fuzzy-explorer atom-text-editor[mini]':
   'enter': 'select-list:open'
