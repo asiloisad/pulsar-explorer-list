@@ -1,0 +1,15 @@
+'menu': [
+  {
+    label: 'Packages'
+    submenu: [
+      {
+        label: 'Fuzzy Explorer'
+        submenu: [
+          { label: 'Toggle', command: 'fuzzy-explorer:toggle' }
+          { label: 'Update', command: 'fuzzy-explorer:update' }
+          { label: 'Edit',   command: 'fuzzy-explorer:edit' }
+        ]
+      }
+    ]
+  }
+]
