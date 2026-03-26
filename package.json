@@ -33,7 +33,6 @@
   },
   "dependencies": {
     "@asiloisad/select-list": "^1.5.0",
-    "cson": "^7.20.0",
     "glob": "^10.5.0",
     "minimatch": "^10.0.1"
   },
