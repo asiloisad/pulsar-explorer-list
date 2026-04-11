@@ -6,9 +6,9 @@ Fuzzy search files across user-defined directories.
 
 - **Fast fuzzy search**: Uses algorithm with smart scoring.
 - **Manual refresh**: Cache updates only when triggered by user.
-- **[file-icons](https://github.com/file-icons/atom)**: Display file icons in the list.
-- **[open-external](https://web.pulsar-edit.dev/packages/open-external)**: Open files with external applications.
-- **[claude-chat](https://web.pulsar-edit.dev/packages/claude-chat)**: Attach file to Claude chat context.
+- **File icons**: Display file icons in the list, via [file-icons](https://github.com/file-icons/atom).
+- **External opening**: Open files with external applications, via [open-external](https://web.pulsar-edit.dev/packages/open-external).
+- **Chat attachment**: Attach file to Claude chat context, via [claude-chat](https://web.pulsar-edit.dev/packages/claude-chat).
 
 ## Installation
 
