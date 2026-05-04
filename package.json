@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "@asiloisad/select-list": "^1.6.0",
+    "@asiloisad/select-list": "^1.6.1",
     "glob": "^13.0.6",
     "minimatch": "^10.0.1"
   },
