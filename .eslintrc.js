@@ -2,7 +2,7 @@ module.exports = {
   root: true,
   extends: "eslint:recommended",
   env: { es2022: true, browser: true, node: true },
-  globals: { atom: "readonly" },
+  globals: { atom: "readonly", emit: "readonly" },
   parserOptions: { ecmaVersion: 2022, sourceType: "commonjs" },
   rules: {
     "no-unused-vars": ["error", { argsIgnorePattern: "^_" }],
