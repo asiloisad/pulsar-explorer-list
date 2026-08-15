@@ -12,7 +12,7 @@ Fuzzy search files across user-defined directories.
 
 ## Installation
 
-To install `fuzzy-explorer` search for [fuzzy-explorer](https://web.pulsar-edit.dev/packages/fuzzy-explorer) in the Install pane of the Pulsar settings or run `ppm install fuzzy-explorer`. Alternatively, you can run `ppm install asiloisad/pulsar-fuzzy-explorer` to install a package directly from the GitHub repository.
+To install `fuzzy-explorer` search for [fuzzy-explorer](https://web.pulsar-edit.dev/packages/fuzzy-explorer) in the Install pane of the Pulsar settings or run `ppm install fuzzy-explorer`. Alternatively, you can run `ppm install asiloisad-pulsar/fuzzy-explorer` to install a package directly from the GitHub repository.
 
 ## Commands
 
