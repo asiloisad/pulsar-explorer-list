@@ -1,7 +1,7 @@
 {
   "name": "fuzzy-explorer",
   "description": "Fuzzy search files across user-defined directories",
-  "repository": "https://github.com/asiloisad/pulsar-fuzzy-explorer",
+  "repository": "https://github.com/asiloisad-pulsar/fuzzy-explorer",
   "version": "0.3.4",
   "license": "MIT",
   "engines": {
